@@ -3,7 +3,7 @@
 Results are saved in their original locations.
 
 ## INSTALLATION
-- Download [`d2p.psm1`](https://github.com/DavidBevi/d2p/blob/main/d2p.psm1) and save it into `C:\Program Files\WindowsPowerShell\Modules\d2p`.
+- Download [`d2p.psm1`](https://github.com/DavidBevi/d2p/releases/download/v1/d2p.psm1) and save it into `C:\Program Files\WindowsPowerShell\Modules\d2p`.
 
 ## USAGE
 - Open Powershell and type `d2p ` followed by the folder you want to process.
