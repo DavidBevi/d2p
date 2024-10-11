@@ -13,4 +13,4 @@ Results are saved in their original locations.
   - EXAMPLE: `d2p C:\MyDocuments`
 
 ### CREDITS 
-`d2p by DavidBevi` is based on [`ConvertWordTo-PDF`](https://sid-500.com/2020/10/20/powershell-convert-word-documentes-to-pdf-documents/) by Patrick Gruenauer | https://sid-500.com
+- `d2p by DavidBevi` is based on [`ConvertWordTo-PDF`](https://sid-500.com/2020/10/20/powershell-convert-word-documentes-to-pdf-documents/) by Patrick Gruenauer | https://sid-500.com
