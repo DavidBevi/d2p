@@ -1,6 +1,8 @@
-# d2p - Powershell script (Windows)
+# d2p - Powershell script
 ### Bulk-convert `.doc` and `.docx` files to `.pdf`, from a folder and its subfolders.
 Results are saved in their original locations.
+
+*Microsoft Word is required.*
 
 ![image](https://github.com/DavidBevi/d2p/blob/main/2dp_demo.gif?raw=true)
 
