@@ -2,6 +2,9 @@
 ### Bulk-convert `.doc` and `.docx` files to `.pdf`, from a folder and its subfolders.
 Results are saved in their original locations.
 
+![image](https://github.com/DavidBevi/d2p/blob/main/2dp_demo.gif?raw=true)
+
+
 ## INSTALLATION
 - Download [`d2p.psm1`](https://github.com/DavidBevi/d2p/releases/download/v1/d2p.psm1) and save it into `C:\Program Files\WindowsPowerShell\Modules\d2p`.
 
