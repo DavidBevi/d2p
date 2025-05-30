@@ -12,10 +12,9 @@ Results are saved in their original locations. *Microsoft Word is required.*
 <details>
 <summary>Alternatively, install manually:</summary>
  
-> - dowload the script
-> - put it in `<YourDriveLetter>:\Windows\System32\d2p.bat`
-> - ensure you have %SystemRoot%\System32 in your system-path or user-path
->   - if you need to add it then ensure to reboot (or log-off-and-on) to enable "d2p" command
+> - download the script
+> - renane it `d2p.bat`
+> - pur it into a folder [listed into user-path or system-path](https://www.thewindowsclub.com/system-user-environment-variables-windows) (like C:\Windows\System32)
 </details>
 
 -----
