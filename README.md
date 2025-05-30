@@ -7,6 +7,14 @@ Results are saved in their original locations. *Microsoft Word is required.*
 ### In the beginning there was the Powershell script.
 But trying to install it on a new machine was painful, so I made a Cmd version that should be more compatible
 
+# v2 - d2p-install.bat
+Use this for maximum compatibility. It's less pretty (no colors) but better in any other way.
+1. Download (link coming soon)
+2. Open it as Admin (it will guide you)
+
+Alternatively, dowload the script, put it in `<YourDriveLetter>:\Windows\System32\d2p.bat`, ensure you have %SystemRoot%\System32 in your system-path or user-path (if you need to add it reboot, or log-off-and-on, to enable "d2p" command)
+
+
 | (v1) Powershell - [d2p.psm1](https://github.com/DavidBevi/d2p/releases/download/v1/d2p.psm1) | (v2) Cmd - d2p.bat |
 |-|-|
 | Has colors (prettier)| Monochrome|
