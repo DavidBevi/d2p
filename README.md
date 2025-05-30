@@ -1,4 +1,5 @@
-## d2p - Bulk-convert Doc(x) 2 Pdf, from a folder and its subfolders.
+# d2p - doc 2 pdf
+### Bulk-convert .doc(x) to .pdf files, from a folder and its subfolders.
 Results are saved in their original locations. *Microsoft Word is required.*
 
 -----
@@ -8,9 +9,9 @@ But trying to install it on a new machine was painful, so I made a Cmd version t
 
 | (v1) Powershell - [d2p.psm1](https://github.com/DavidBevi/d2p/releases/download/v1/d2p.psm1) | (v2) Cmd - d2p.bat |
 |-|-|
-|✔️ Has colors (prettier)|❌ Monochrome|
-|❌ Requires Powershell|✔️ Doesn't require Powershell|
-|❌ I can't remember or reconstruct how I got it installed|✔️ Just double-click on the script, it will guide you in installing|
+| Has colors (prettier)| Monochrome|
+| Requires Powershell| Doesn't require Powershell|
+| I can't remember or reconstruct how I got it installed| Just double-click on the script, it will guide you in installing|
 |![image](https://github.com/DavidBevi/d2p/blob/main/2dp_demo.gif?raw=true)| gif coming soon |
 
 -----
