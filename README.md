@@ -7,7 +7,7 @@ Results are saved in their original locations. *Microsoft Word is required.*
 # [v2] [Download `d2p-install.bat`](https://github.com/DavidBevi/d2p/releases/download/v2/d2p-install.bat)
 **Just open it as Admin & follow instructions**. Use this for maximum compatibility. It's less pretty (no colors) but better in any other way.
 
-![image](https://github.com/DavidBevi/d2p/blob/main/d2p-v1-demo.gif?raw=true)
+![image](https://github.com/DavidBevi/d2p/blob/main/d2p-v2-demo.gif?raw=true)
 
 <details>
 <summary>Alternatively, install manually:</summary>
