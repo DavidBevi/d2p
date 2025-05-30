@@ -13,8 +13,8 @@ Results are saved in their original locations. *Microsoft Word is required.*
 <summary>Alternatively, install manually:</summary>
  
 > - download the script
-> - renane it `d2p.bat`
-> - pur it into a folder [listed into user-path or system-path](https://www.thewindowsclub.com/system-user-environment-variables-windows) (like C:\Windows\System32)
+> - rename it `d2p.bat`
+> - put it into a folder [listed into user-path or system-path](https://www.thewindowsclub.com/system-user-environment-variables-windows) (like C:\Windows\System32), or insert the folder with d2p into the path and reboot
 </details>
 
 -----
