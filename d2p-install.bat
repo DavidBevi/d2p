@@ -126,7 +126,7 @@ exit /b 0
 ##>Call CountDocs(fso.GetFolder(folderPath))
 ##>Dim msg
 ##>If totalDocs = 0 Then
-##>    msg = "DONE!"
+##>    msg = "DONE"
 ##>Else
 ##>    msg = totalDocs & " doc(x) to convert"
 ##>End If
@@ -140,7 +140,7 @@ exit /b 0
 ##>    WScript.Quit 1
 ##>End If
 ##>Call ConvertFolder(fso.GetFolder(folderPath))
-##>WScript.Echo vbCrLf & "DONE!" & vbCrLf
+##>WScript.Echo vbCrLf & "DONE (exiting in 3 seconds) ############" & vbCrLf
 ##>WScript.Sleep 3000
 ##>WScript.Quit 0
 ##>
