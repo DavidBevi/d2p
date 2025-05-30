@@ -7,6 +7,8 @@ Results are saved in their original locations. *Microsoft Word is required.*
 # [v2] [Download `d2p-install.bat`](https://github.com/DavidBevi/d2p/releases/download/v2/d2p-install.bat)
 **Just open it as Admin & follow instructions**. Use this for maximum compatibility. It's less pretty (no colors) but better in any other way.
 
+![image](https://github.com/DavidBevi/d2p/blob/main/d2p-v1-demo.gif?raw=true)
+
 <details>
 <summary>Alternatively, install manually:</summary>
  
@@ -20,7 +22,7 @@ Results are saved in their original locations. *Microsoft Word is required.*
 
 # [v1] Powershell script
 
-![image](https://github.com/DavidBevi/d2p/blob/main/2dp_demo.gif?raw=true)
+![image](https://github.com/DavidBevi/d2p/blob/main/d2p-v1-demo.gif?raw=true)
 
 **This is the original d2p, for Powershell**, but trying to install it on a new machine was so clunky that I gave up.
 
