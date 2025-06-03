@@ -5,4 +5,4 @@ MADE-FOR-FOSS LICENSE
 
 CREDITS https://github.com/DavidBevi/d2p/
 - v1 is a mod of a Powershell script from Patrick Gruenauer: https://sid-500.com/2020/10/20/powershell-convert-word-documentes-to-pdf-documents/
-- v2 is an original remake for any Windows' terminal (Cmd)
+- v2 is an original remake for Cmd (and Powershell)
